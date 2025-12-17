@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Particle Flower",
+  "description": "A dynamic particle system that transforms into a flower when you make a fist, powered by Gemini vision capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
